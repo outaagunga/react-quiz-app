@@ -1,3 +1,4 @@
+import React from 'react'
 function ResultScreen({ score, total, onReview, onRestart }) {
   const percentage = Math.round((score / total) * 100);
 

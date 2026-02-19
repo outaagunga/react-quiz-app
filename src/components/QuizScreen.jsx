@@ -1,3 +1,4 @@
+import React from 'react'
 import { useState } from "react";
 import QuestionCard from "./QuestionCard";
 import Timer from "./Timer";

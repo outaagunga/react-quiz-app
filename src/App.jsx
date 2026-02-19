@@ -1,8 +1,10 @@
+import React from 'react'
 import StartScreen from "./components/StartScreen";
 import QuizScreen from "./components/QuizScreen";
 import ResultScreen from "./components/ResultScreen";
 import ReviewScreen from "./components/ReviewScreen";
 import useQuiz from "./hooks/useQuiz";
+import react from "react";
 
 function App() {
   const {

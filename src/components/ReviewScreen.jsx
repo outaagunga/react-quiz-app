@@ -1,3 +1,4 @@
+import React from 'react'
 function ReviewScreen({ incorrectAnswers, onRestart }) {
   return (
     <div className="card">
